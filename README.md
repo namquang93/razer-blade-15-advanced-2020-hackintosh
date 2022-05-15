@@ -1,6 +1,6 @@
 # razer-blade-15-advanced-2020-hackintosh
 
-This repo is based on this hackintosh: https://github.com/dursonATWIT/Razer-Blade-15-advanced-2020-hackintosh-OpenCore. Please make sure you know what you're doing and follow dortania guide.
+This repo is based on this hackintosh: https://github.com/dursonATWIT/Razer-Blade-15-advanced-2020-hackintosh-OpenCore. Please make sure you know what you're doing and follow dortania guide. I've removed the System Serial Number and UUID I used for my laptop so you'll need to generate one for yours.
 
 I'm using macOS Monterey 12.1 on my Razer Blade 15 Advanced 2020. The spec is:
  - Core i7 10875H
