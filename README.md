@@ -14,3 +14,5 @@ Almost everything work, except:
  - Audio sometimes doesn't work if rebooting from Windows. Shutting down windows and doing a cold boot for macOS gets audio to work 100%.
 
 For external display, I'm using a display link adapter (https://vi.aliexpress.com/item/1005002448484645.html?gatewayAdapt=glo2vnm)
+
+Update: Upgraded to Ventura.
